@@ -1,2 +1,3 @@
 # first-repository
 This is my first .....
+Aurther - satyam Kumar
